@@ -124,3 +124,12 @@ CampusBite follows a feature-branch workflow.
 - `test/*`: Branches for testing-related changes.
 
 All feature changes are submitted through Pull Requests before merging into the develop branch.
+## Code Review Checklist
+
+Before submitting a Pull Request, contributors should:
+
+- Check that the code follows the project structure.
+- Test the changes locally.
+- Write a clear Pull Request description.
+- Review their own code before requesting approval.
+- Include screenshots when UI changes are made.
