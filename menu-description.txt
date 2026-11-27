@@ -1,2 +1,4 @@
 CampusBite Menu
 Browse fresh and affordable food items from the student cafeteria.
+CampusBite Food Menu
+Explore delicious, affordable meals and snacks available at the university cafeteria.
