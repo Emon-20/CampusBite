@@ -112,3 +112,15 @@ Start the backend and visit: `http://localhost:5000/api-docs`
 
 ## GitHub Actions CI
 Configured in `.github/workflows/ci.yml` to automatically install dependencies, run backend unit & integration tests, run frontend tests, and build the React app on every push or pull request.
+
+
+## Development Workflow
+
+CampusBite follows a feature-branch workflow.
+
+- `main`: Stable project version.
+- `develop`: Integration branch for completed features.
+- `feature/*`: Branches for developing new features.
+- `test/*`: Branches for testing-related changes.
+
+All feature changes are submitted through Pull Requests before merging into the develop branch.
